@@ -1,0 +1,9 @@
+import com.mayos.core; 
+class trashbin {
+    api struct info {
+        int trashbinId {
+            return trashbin:getTrashBinID();
+        }
+    }
+}
+
