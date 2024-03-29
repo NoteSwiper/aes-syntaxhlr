@@ -7,12 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+<<<<<<< HEAD
 ## [0.2.1] - 2024-03-29 [YANKED]
 
 ## Fixed
 
 - All the changes was undo because the incompatible by typescript.
 
+=======
+>>>>>>> f1322e7ef1afb210d53b7ddaaab5e03d8404ded8
 ## [0.3.0] - 2023-06-17
 
 ### Added

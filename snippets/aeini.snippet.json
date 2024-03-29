@@ -1,0 +1,20 @@
+<<<<<<< HEAD:snippet/aeini.snippet.json
+{
+    "Comment": {
+      "prefix": [";","//","#","--"],
+      "body": [
+        ";; $1"
+      ],
+      "description": "Imports an module from \"built-in\" package or \"cloud\" provide package."
+    }
+=======
+{
+    "Comment": {
+      "prefix": [";","//","#","--"],
+      "body": [
+        ";; $1"
+      ],
+      "description": "Imports an module from \"built-in\" package or \"cloud\" provide package."
+    }
+>>>>>>> f1322e7ef1afb210d53b7ddaaab5e03d8404ded8:snippets/aeini.snippet.json
+  }

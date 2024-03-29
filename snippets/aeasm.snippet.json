@@ -1,0 +1,20 @@
+<<<<<<< HEAD:snippet/aeasm.snippet.json
+{
+    "Import Method": {
+      "prefix": ["import","Import","imp","package"],
+      "body": [
+        "get $1;"
+      ],
+      "description": "Imports an module from \"built-in\" package or \"cloud\" provide package."
+    }
+=======
+{
+    "Import Method": {
+      "prefix": ["import","Import","imp","package"],
+      "body": [
+        "get $1;"
+      ],
+      "description": "Imports an module from \"built-in\" package or \"cloud\" provide package."
+    }
+>>>>>>> f1322e7ef1afb210d53b7ddaaab5e03d8404ded8:snippets/aeasm.snippet.json
+  }

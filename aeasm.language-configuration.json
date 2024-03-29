@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "comments": {
         "blockComment": ["$*","*$"],
@@ -36,4 +37,44 @@
         ["\"","\""],
         ["",""]
     ]
+=======
+{
+    "comments": {
+        "blockComment": ["$*","*$"],
+        "lineComment": "#"
+    },
+    "brackets": [
+        ["(",")"],
+        ["[","]"],
+        ["{","}"],
+        ["${","}"],
+        ["<",">"]
+    ],
+    "autoClosingPairs": [
+        {"open": "{", "close": "}"},
+        {"open": "[", "close": "]"},
+        {"open": "(", "close": ")"},
+        {"open": "<", "close": ">"},
+        {"open": "\"", "close": "\""},
+        {"open": "'", "close": "'"},
+        {"open": "`", "close": "`"}
+    ],
+    "autoCloseBefore": ";:.,=}])> \n\t",
+    "folding": {
+        "markers": {
+            "start": "^\\s*//\\s*#?region\\b",
+            "end": "^\\s*//\\s*#?endregion\\b"
+        }
+    },
+    "wordPattern": {
+        "pattern": "(-?\\d*\\.\\d\\w*)|([^\\`\\~\\@\\!\\%\\^\\&\\*\\(\\)\\-\\=\\+\\[\\{\\]\\}\\\\\\|\\;\\:\\'\\\"\\,\\.\\<\\>/\\?\\s]+)",
+    },
+    "surroundingPairs": [
+        ["(", ")"],
+        ["[","]"],
+        ["{","}"],
+        ["\"","\""],
+        ["",""]
+    ]
+>>>>>>> f1322e7ef1afb210d53b7ddaaab5e03d8404ded8
 }
