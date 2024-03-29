@@ -1,9 +1,9 @@
 import com.mayos.core; 
+import import com.example.division.app;
 class trashbin {
     api struct info {
         int trashbinId {
             return trashbin:getTrashBinID();
         }
     }
-}
-
+};

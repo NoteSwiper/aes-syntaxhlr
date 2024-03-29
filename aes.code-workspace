@@ -1,7 +1,15 @@
 {
 	"folders": [
 		{
+			"name": "aes",
 			"path": "."
+		},
+		{
+			"name": "New Folder",
+			"path": "../New Folder"
+		},
+		{
+			"path": "../mayosscript"
 		}
 	],
 	"settings": {
@@ -18,6 +26,6 @@
 		"docker.dockerPath": "C:\\Program Files\\Docker\\Docker",
 		"docker.composeCommand": "docker compose",
 		"perl.containerName": "easyaes",
-		
+
 	}
 }
